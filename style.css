@@ -25,3 +25,51 @@ body {
     text-decoration: none;
     letter-spacing: 1px;
 }
+
+/* mainスタイルシート */
+.block-main {
+    text-align: center;
+    margin: 100px 0;
+}
+
+/* profileのスタイルシート */
+.item-list {
+    width: 100%;
+    max-width: 348px;
+    margin: 0 auto;
+}
+
+.item-list img {
+    width: 65%;
+    height: 250px;
+    object-position: bottom;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.item-list b {
+    display: block;
+    font-size: 24px;
+    font-weight: nomal;
+    margin: 20px 0 30px;
+}
+
+.item-list p {
+    font-size: 14px;
+    line-height: normal;
+    text-align: left;
+}
+
+.icon-list {
+    list-style: none;
+    width: 100%;
+    max-width: 247px;
+    margin: 30px auto;
+    padding: 0;
+    display: flex;
+    -webkit-justify-content: center;
+}
+
+.icon-list li {
+
+}
