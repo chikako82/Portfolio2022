@@ -40,8 +40,8 @@ body {
 }
 
 .item-list img {
-    width: 65%;
-    height: 250px;
+    width: 60%;
+    height: 220px;
     object-position: bottom;
     object-fit: cover;
     border-radius: 50%;
